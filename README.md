@@ -17,7 +17,7 @@ Educational project for data analysis learning with Python. Exploring correlatio
 - `data/` - survey datasets
 - `notebooks/` - Jupyter notebooks with analysis
 - `scripts/` - Python utility scripts
-- `README.md
+- README.md
 
 ## Educational Purpose
 This project is part of my learning journey in Python data analysis and scientific research methods.

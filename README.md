@@ -10,6 +10,7 @@ Educational project for data analysis learning with Python. Exploring correlatio
 - ✅ Practiced variables and loops with research examples
 - ✅ Learned Git workflow with GitHub Desktop
 - ✅ Learned Visualization workflow
+- ✅ Practiced High-Quality Publication-Ready customized visualization
 
 ### Current Work:
 - **Focus**: Building foundation for data analysis

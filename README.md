@@ -1,4 +1,4 @@
-# Media Impact on Mental Health - Student Survey Analysis
+# Media Impact on Mental Health - Student Survey Analysis (Sample)
 
 Educational project for data analysis learning with Python. Exploring correlations between media consumption and mental health indicators among students.
 

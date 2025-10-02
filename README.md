@@ -9,6 +9,7 @@ Educational project for data analysis learning with Python. Exploring correlatio
 - ✅ Created first Jupyter notebook with Python basics
 - ✅ Practiced variables and loops with research examples
 - ✅ Learned Git workflow with GitHub Desktop
+- ✅ Learned Visualization workflow
 
 ### Current Work:
 - **Focus**: Building foundation for data analysis
@@ -17,6 +18,7 @@ Educational project for data analysis learning with Python. Exploring correlatio
 - `data/` - survey datasets
 - `notebooks/` - Jupyter notebooks with analysis
 - `scripts/` - Python utility scripts
+- `plots/` - Visulization
 - README.md
 
 ## Educational Purpose
